@@ -16,6 +16,6 @@ Pasul 6 (Optional). Daca intampini probleme la vreunul din pasii anteriori, cree
 	a. Daca ai lucrat in linie de comanda (GitBash), poti trece numai comenzile text rulate, impreuna cu mesajele de eroare
 	b. Daca ai lucrat in SourceTree, fa cate un screenshot pentru fiecare pas, cu scurte explicatii pe imagine (ce ai incercat sa faci, ce nu a mers, etc.).
 	
-
+Recomandare: Poti crea comentarii la commit-uri.
 
 TIMP TOTAL DE LUCRU: 45 de minute. Laboratorul se incheie cu trecerea linkului catre branch-ul creat, sau incarcarea documentului detaliind procesul si erorile intalnite.
